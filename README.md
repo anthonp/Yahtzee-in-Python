@@ -1,4 +1,4 @@
-# Yahtzee-in-Python
+# Yahtzee in Python
 
 ## COMP-150 Final Project Instructions:
 
