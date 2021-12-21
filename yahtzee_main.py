@@ -5,8 +5,8 @@
 
 # Prerequisites:
 #     
-#    * 'cImage.py' must be in the same directory as 'anthonys_yahtzee.py'
-#    * 'dice.gif' must be in the same directory as 'anthonys_yahtzee.py'
+#    * 'cImage.py' must be in the same directory as 'yahtzee_main.py'
+#    * 'dice.gif' must be in the same directory as 'yahtzee_main.py'
 #    * Save files are created automatically upon saving the game at the end.
 #    * User cannot load a previous game if there are no saves.
 
