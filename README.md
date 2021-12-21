@@ -1,6 +1,6 @@
 # Yahtzee in Python
 
-## COMP-150 Final Project Instructions:
+## COMP-150 Programming Control Structures Final Project Instructions:
 
 * Must be able to save a game
 * Must be able to load a game
